@@ -3,7 +3,7 @@ A Wordle-style word guessing game built using plain HTML, CSS, and JavaScript. T
 This is a fully functional, responsive clone created as a fun learning project to strengthen front-end development skills and core JavaScript logic handling.
 
 # Live Demo:
-VISIT LIVE WEBSITE: 
+VISIT LIVE WEBSITE: https://hareeshwarchowdary.github.io/js-wordle/
 
 # Built with:
 - HTML5
