@@ -14,9 +14,9 @@ VISIT LIVE WEBSITE:
 - The game dynamically generates a 6x5 board using JavaScript.
 - Players input guesses via keyboard or on-screen keys.
 - On submitting a guess:
-  🟩 Green: correct letter in correct position
-  🟨 Yellow: letter exists but in the wrong spot
-  ⬜ Gray: letter not in the word
+-🟩 Green: correct letter in correct position
+-🟨 Yellow: letter exists but in the wrong spot
+-⬜ Gray: letter not in the word
 - The game ends after 6 incorrect tries or a correct guess.
 - Invalid or unrecognized words prompt a "Not in word list" message.
 
